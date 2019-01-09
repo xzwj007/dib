@@ -1,12 +1,12 @@
 {
-    "name": "dibDIB/dib ",
+    "name": "xzwj007/dib ",
     "description": "dib-sdk",
     "license": "MIT",
     "keywords": ["dib","DIB"],
     "version": "1.0.0",
     "authors": [
         {
-            "name": "hzh",
+            "name": "xzwj007",
             "email": "haozhenhua@eschain.pro"
         }
     ],
